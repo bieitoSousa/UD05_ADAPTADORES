@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UD05_ADAPTADORES</string>
+    <string-array name="planetas_spinner">
+        <item> Mercurio </item>
+        <item> Venus </item>
+        <item> Tierra </item>
+        <item> Marte </item>
+        <item> Júpiter </item>
+        <item> Saturno </item>
+        <item> Urano </item>
+        <item> Neptuno </item>
+    </string-array>
+</resources>
